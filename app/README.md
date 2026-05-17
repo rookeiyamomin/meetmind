@@ -33,6 +33,11 @@
 
 ##  Demo
 
+<img width="681" height="554" alt="image" src="https://github.com/user-attachments/assets/252079be-30a9-4d43-962d-b582d445e5f6" />
+
+<img width="721" height="574" alt="image" src="https://github.com/user-attachments/assets/afeabfa0-fc66-4c77-a419-7f76d3b0ec2e" />
+
+
 **Sample input (paste in the app):**
 ```
 Rukayya: Good morning everyone. Let's start with the Q3 review.
@@ -57,11 +62,11 @@ Topics:     Q3 Review, Revenue, Marketing, Follow-up
 
 ##  Architecture
 
-![MeetMind Architecture](assets/architecture.png)
+<img width="892" height="682" alt="architecture" src="https://github.com/user-attachments/assets/cf277c7c-5b88-42bb-8cfc-7fb3255aa7ae" />
 
 ## ️ FlowChart
+<img width="1472" height="1784" alt="flowchart" src="https://github.com/user-attachments/assets/b724a82f-ba11-40d1-b309-d32ccfbf068c" />
 
-![MeetMind Flowchart](assets/flowchart.png)
 ##  Project Structure
 
 ```
